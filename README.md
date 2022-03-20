@@ -1,6 +1,6 @@
-# Food shop web application  use React Js
+# FoodStore web application  use React Js
 
-Food shop web application user interface  natural.
+FoodStore web application user interface  natural.
 
 
 ## Backend And Front end web application 
@@ -20,8 +20,8 @@ Food shop web application user interface  natural.
 1. Node JS
 2. MongoDB
 3. Cors 
-4. Multer (file Upload)
-5. Body perser 
-6. mongoos 
+4. Multifier (file Upload)
+5. Body parser 
+6. mongoose
 7. dotenv
 8. Express JS
